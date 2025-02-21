@@ -34,7 +34,7 @@
   "dependencies": {
     "@llm-ui/react": "workspace:*",
     "@llm-ui/shared": "workspace:*",
-    "jsonpath-plus": "^9.0.0",
+    "jsonpath-plus": "^10.3.0",
     "jsonrepair": "^3.8.0",
     "remeda": "^1.57.0",
     "zod-to-json-schema": "^3.23.0"
